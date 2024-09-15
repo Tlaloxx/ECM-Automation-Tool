@@ -28,10 +28,8 @@ Proyecto en Python que utiliza Selenium y PyAutoGUI para automatizar tareas en u
    ```bash
    pip install -r requirements.txt
    ```
-
-3. **Configura los parámetros necesarios** en el archivo `config.ini`.
-
-4. **Ejecuta el script principal:**
+   
+3. **Ejecuta el script principal:**
 
    ```bash
    python main.py
