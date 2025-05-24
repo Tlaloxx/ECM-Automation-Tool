@@ -1,39 +1,24 @@
 # ECM-Automation-Tool
-Proyecto en Python que utiliza Selenium y PyAutoGUI para automatizar tareas en un Enterprise Complaint Manager (ECM). Automatiza procesos repetitivos como la colocación de notas.
 
-## **Características principales**
+Automatiza tareas repetitivas en el sistema **Enterprise Complaint Manager (ECM)** usando **Python**, **Selenium** y **PyAutoGUI**.
 
-- **Automatización de Navegación Web con Selenium:** Interactúa con la interfaz web del ECM para realizar acciones como inicio de sesión, navegación por menús y manipulación de datos.
-- **Automatización de Interfaz Gráfica con PyAutoGUI:** Controla aplicaciones de escritorio que forman parte del flujo de trabajo del ECM, permitiendo una integración más completa.
-- **Manejo de Errores y Logs:** Implementa mecanismos para capturar y registrar errores, facilitando el monitoreo y mantenimiento del sistema.
-- **Configuración Personalizable:** Permite ajustar parámetros como tiempos de espera, rutas de acceso y credenciales de manera sencilla.
+## 🚀 Funciones clave
 
-## **Requisitos**
+- Navegación web automatizada (Selenium)  
+- Control de interfaz gráfica (PyAutoGUI)  
+- Manejo de errores y registros  
+- Configuración flexible
 
-- Python 3.x
-- Selenium
-- PyAutoGUI
-- Navegador compatible (por ejemplo, Chrome o Firefox) y su respectivo WebDriver
+## ⚙️ Requisitos
 
-## **Cómo empezar**
+- Python 3.x  
+- Selenium  
+- PyAutoGUI  
+- WebDriver (Chrome o Firefox)
 
-1. **Clona este repositorio:**
+## ▶️ Uso rápido
 
-   ```bash
-   git clone https://github.com/tuusuario/ECM-Automation-Tool.git
-   ```
-
-2. **Instala las dependencias:**
-
-   ```bash
-   pip install -r requirements.txt
-   ```
-   
-3. **Ejecuta el script principal:**
-
-   ```bash
-   python main.py
-   ```
-## **Licencia**
-
-Este proyecto está bajo la **Licencia MIT**. Consulta el archivo `LICENSE` para más detalles.
+```bash
+git clone https://github.com/tuusuario/ECM-Automation-Tool.git
+pip install -r requirements.txt
+python main.py
